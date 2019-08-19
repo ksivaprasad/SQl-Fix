@@ -2,7 +2,7 @@
 The repository contains code to fix issues with sql
 
 ## 1. Add semicolon to the end of the line.
-   Use java file .java to solve this issue.
+   Use java file **SqlSemicolonFix.java** to solve this issue.
    This code append semicolon at the end of the line if it is missing.
    
    
